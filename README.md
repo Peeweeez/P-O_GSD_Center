@@ -279,8 +279,7 @@ Each color carries through the entire project for consistent visual identity.
 ```
 P-O_GSD_Center/
 ├── P-O GSD Center Modern Minimalist.html  (main application)
-├── README.md                               (this file)
-└── .idea/                                  (IDE settings, ignore)
+└── README.md                               (this file)
 ```
 
 ### Performance
